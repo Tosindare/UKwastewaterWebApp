@@ -1,2 +1,0 @@
-Plan of what needs to be done
-- No of rows in the dashboard ==> 4 rows
